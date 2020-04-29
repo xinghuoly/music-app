@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: './',
     proxyTable: {
         '/api': {    //将www.exaple.com印射为/apis
             target: 'http://tingapi.ting.baidu.com',  // 接口域名
