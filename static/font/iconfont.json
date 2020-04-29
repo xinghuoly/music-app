@@ -1,0 +1,121 @@
+{
+  "id": "1696057",
+  "name": "app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5365351",
+      "name": "返回",
+      "font_class": "ffanhui-",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "6501612",
+      "name": "播放",
+      "font_class": "icon-bofang",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7991129",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "8713979",
+      "name": "18右前进",
+      "font_class": "youqianjin",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "8713987",
+      "name": "20左前进",
+      "font_class": "zuoqianjin",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "12473808",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "13244261",
+      "name": "重播",
+      "font_class": "replay",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "12575463",
+      "name": "SongList 歌单",
+      "font_class": "SongListgedan",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "129052",
+      "name": "music",
+      "font_class": "music1",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "6805883",
+      "name": "Microphone-1",
+      "font_class": "Microphone-",
+      "unicode": "ea1f",
+      "unicode_decimal": 59935
+    },
+    {
+      "icon_id": "10329430",
+      "name": "bar-graph",
+      "font_class": "bar-graph",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "494475",
+      "name": "cart_2f",
+      "font_class": "cart2f",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "537926",
+      "name": "music",
+      "font_class": "music",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1084595",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "10166323",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "10496989",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}
